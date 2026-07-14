@@ -2,7 +2,7 @@
 
 This repository contains the data and code for the article: _Measuring voluntary responses in healthcare utilization during The COVID-19 pandemic: Evidence from Taiwan_
 
-The paper is available at: https://yungyutsai.github.io/research.html
+The paper is available at: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0271810
 
 - - - -
 The directories are as follows:
