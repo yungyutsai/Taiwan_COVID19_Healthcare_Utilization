@@ -1,6 +1,9 @@
 ## Measuring voluntary responses in healthcare utilization during The COVID-19 pandemic: Evidence from Taiwan ##
 
-This respiratory contains the data and code for article: _Measuring voluntary responses in healthcare utilization during The COVID-19 pandemic: Evidence from Taiwan_
+This repository contains the data and code for the article: _Measuring voluntary responses in healthcare utilization during The COVID-19 pandemic: Evidence from Taiwan_
+
+The paper is available at: https://yungyutsai.github.io/research.html
+
 - - - -
 The directories are as follows:
 
@@ -16,4 +19,4 @@ The directories are as follows:
 - - - -
 If you have any questions, please contact the authors at:
 - Tzu-Ting Yang (ttyang@econ.sinica.edu.tw)
-- Yung-Yu Tsai (ytsai@mail.missouri.edu)
+- Yung-Yu Tsai (ytsai@nccu.edu.tw)
